@@ -15,7 +15,7 @@ setup(
         'Programming Language :: Python'
         ],
     url='https://github.com/Rajahemed/quantum',
-    author='rajahemed kotekhan',
+    author='rajahemed',
     author_email='rajahmedkotekhan3581@gmail.com',
     license='MIT',
     packages=['insilicoq'],
